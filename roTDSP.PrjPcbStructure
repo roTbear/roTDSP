@@ -1,0 +1,6 @@
+Record=TopLevelDocument|FileName=DSP.SchDoc
+Record=SheetSymbol|SourceDocument=DSP.SchDoc|Designator=Output1|SchDesignator=Output1|FileName=OutputDriver.SchDoc|SymbolType=Normal|RawFileName=OutputDriver.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=DSP.SchDoc|Designator=Output2|SchDesignator=Output2|FileName=OutputDriver.SchDoc|SymbolType=Normal|RawFileName=OutputDriver.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=DSP.SchDoc|Designator=Output3|SchDesignator=Output3|FileName=OutputDriver.SchDoc|SymbolType=Normal|RawFileName=OutputDriver.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=DSP.SchDoc|Designator=Output4|SchDesignator=Output4|FileName=OutputDriver.SchDoc|SymbolType=Normal|RawFileName=OutputDriver.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=DSP.SchDoc|Designator=U_Input|SchDesignator=U_Input|FileName=Input.SchDoc|SymbolType=Normal|RawFileName=Input.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
